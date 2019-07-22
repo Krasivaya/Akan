@@ -13,4 +13,4 @@ git clone https://github.com/Krasivaya/Akan.git
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
- Copyright (c) 2019 **Moringa School**# Akan
+ Copyright (c) **2019**
