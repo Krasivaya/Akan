@@ -14,8 +14,10 @@ git clone https://github.com/Krasivaya/Akan.git
                                                      Akan Name Page
 ![s2](https://user-images.githubusercontent.com/51264308/61631541-e7724200-ac8a-11e9-91a6-12929406e3e3.png)
 
+                                                     Contact Page
+![s3](https://user-images.githubusercontent.com/51264308/61631581-07096a80-ac8b-11e9-9d1e-fd059f47508a.png)
 
-[Akan](https://krasivaya.github.io/Akan/)
+LiveSite [Akan](https://krasivaya.github.io/Akan/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
