@@ -8,6 +8,10 @@
 git clone https://github.com/Krasivaya/Akan.git
 ```
 ## Live Site
+                                                     Home Page
+![s1](https://user-images.githubusercontent.com/51264308/61631345-67e47300-ac8a-11e9-8273-bb8c3d35e4b8.png)
+
+
 [Akan](https://krasivaya.github.io/Akan/)
 
 ## License
