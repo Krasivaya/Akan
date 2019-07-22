@@ -1,0 +1,58 @@
+html,body {
+    scroll-behavior: smooth;
+    height: 100%;
+    margin: 0;
+  }
+.about{
+    height: 100%;
+    background-image: url(../images/a1.jpg);
+    background-size: cover;
+    height: 700px;
+    padding-top: 100px;
+    color: #000;
+}
+.input-data {
+  float: left;
+  width: 30%;
+  width: 420px;
+  height: 500px;
+  background-color: #fff;
+}
+.text {
+  margin: 90px;
+}
+span{
+  color: #3ea7a2;
+}
+#submit {
+  background-color: #3ea7a2;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+  margin-left: 50px;
+  color: #fff;
+  cursor: pointer;
+}
+#given-name-again{
+  color: #fff;
+}
+.empty-output {
+  float: left;
+  width: 30%;
+  width: 424px;
+  height: 500px;
+  background-color: #3ea7a2;
+}
+.empty-output > .text {
+  border: 2px dashed black;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 150px;
+} 
+.output-data {
+  float: left;
+  width: 30%;
+  width: 440px;
+  height: 500px;
+  background-color: #fff;
+}
