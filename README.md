@@ -11,6 +11,9 @@ git clone https://github.com/Krasivaya/Akan.git
                                                      Home Page
 ![s1](https://user-images.githubusercontent.com/51264308/61631345-67e47300-ac8a-11e9-8273-bb8c3d35e4b8.png)
 
+                                                     Akan Name Page
+![s2](https://user-images.githubusercontent.com/51264308/61631541-e7724200-ac8a-11e9-91a6-12929406e3e3.png)
+
 
 [Akan](https://krasivaya.github.io/Akan/)
 
