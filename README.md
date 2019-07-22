@@ -3,7 +3,7 @@
 ## Description
  The Akan people of Ghana frequently name their children after the day of the week they were born and according to their gender.
 ## Setup Instructions
- You will need to clone the project and then run it
+ You will need to clone the project and then run it.
 ```
 git clone https://github.com/Krasivaya/Akan.git
 ```
