@@ -7,6 +7,9 @@
 ```
 git clone https://github.com/Krasivaya/Akan.git
 ```
+## Contact Information
+[Linkedin](https://www.linkedin.com/in/carine-ishimwe-semwaga-29aa11149/)
+[Gitlab](https://gitlab.com/Krasivaya?nav_source=navbar)
 ## Live Site
                                                      Home Page
 ![s1](https://user-images.githubusercontent.com/51264308/61631345-67e47300-ac8a-11e9-8273-bb8c3d35e4b8.png)
