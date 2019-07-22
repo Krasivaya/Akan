@@ -1,7 +1,7 @@
-# Portfolio
+# Akan
  By **Carine I. SEMWAGA**
 ## Description
- I'm a web designer and developer based in kigali, Rwanda.
+ The Akan people of Ghana frequently name their children after the day of the week they were born and according to their gender.
 ## Setup Instructions
  You will need to clone the project and then run it.
 ```
