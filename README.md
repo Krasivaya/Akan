@@ -5,10 +5,10 @@
 ## Setup Instructions
  You will need to clone the project and then run it.
 ```
-git clone https://github.com/Krasivaya/portfolio.git
+git clone https://github.com/Krasivaya/Akan.git
 ```
 ## Live Site
-[Portfolio](https://krasivaya.github.io/portfolio/)
+[Akan](https://krasivaya.github.io/Akan/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
