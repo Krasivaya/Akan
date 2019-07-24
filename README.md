@@ -7,6 +7,27 @@
 ```
 git clone https://github.com/Krasivaya/Akan.git
 ```
+## BDD
+* Enter  valid the date, month, century and year
+* Enter gender
+* If it's Male, display
+Sunday: Kwasi
+Monday: Kwadwo
+Tuesday: Kwabena
+Wednesday: Kwaku
+Thursday:  Yaw
+Friday: Kofi
+Saturday: Kwame
+* If it's Female, display
+Sunday: Akosua
+Monday: Adwoa
+Tuesday: Abenaa
+Wednesday: Akua
+Thursday:  Yaa
+Friday: Afua
+Saturday: Ama
+## Technologies Used
+HTML, CSS and Javascript   
 ## Contact Information
 [Linkedin](https://www.linkedin.com/in/carine-ishimwe-semwaga-29aa11149/)
 [Gitlab](https://gitlab.com/Krasivaya?nav_source=navbar)
